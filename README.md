@@ -32,7 +32,7 @@ It provides insights into revenue trends, best-selling products, peak sales hour
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](images/coffee_shop_2023_ashboard.jpg)
+![Dashboard Preview](images/coffee_shop_2023_dashboard.jpg)
 
 ---
 
