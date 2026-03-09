@@ -30,13 +30,13 @@ It provides insights into revenue trends, best-selling products, peak sales hour
 
 ---
 
-## 🖼 Dashboard Preview
+## Dashboard Preview
 
 ![Dashboard Preview](images/coffee_shop_2023_dashboard.jpg)
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Power BI
 - DAX
 - Data Modeling
@@ -44,7 +44,7 @@ It provides insights into revenue trends, best-selling products, peak sales hour
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 coffee-shop-2023-dashboard/
 │
 ├── data/
@@ -60,7 +60,7 @@ coffee-shop-2023-dashboard/
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Download the `.pbix` file.
 2. Open with Microsoft Power BI Desktop.
 3. Explore interactive visualizations.
